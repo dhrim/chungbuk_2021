@@ -7,7 +7,8 @@
 
 ## 1일차(2021/04/20)
 
-- 딥러닝 소개, 실습 환경 소개 : TODO
+- 딥러닝과 영상처리 : [deep_learning_and_image_processing.pptx](material/deep_learning/deep_learning_and_image_processing.pptx)
+
 
 <br>
 
