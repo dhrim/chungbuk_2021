@@ -14,7 +14,7 @@
 
 ## 2일차(2021/04/22)
 
-- VGG로 영상 분류, 전이학습 : [VGG16_classification_and_cumtom_data_training.ipynb](material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/chungbuk_2021/blob/master/material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
+- Image Classification : [image_classification.ipynb](material/deep_learning/image_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/chungbuk_2021/blob/master/material/deep_learning/image_classification.ipynb)
 
 
 <br>
